@@ -1,0 +1,2 @@
+add_executable(assembling_planners "assembling_planners.cpp")
+target_link_libraries(assembling_planners mpel_full)
